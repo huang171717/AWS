@@ -4,4 +4,5 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/20bd0fd7-6f18-4c00-9c4a-cdbc71bcb351" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/475fa0c9-afbd-4437-bd74-885e33f18f2c" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7f9c80fe-2fc9-43a2-a10b-e26e3db8c574" />
+<img width="1920" height="1080" alt="螢幕擷取畫面 2026-11-26 114133" src="https://github.com/user-attachments/assets/ba23c9f2-dca5-4b24-b41d-6ecc553ef7b8" />
 
